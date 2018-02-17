@@ -14,11 +14,11 @@ yarn install
 ```
 
 ## NPM scripts
- - `yarn dev`: build lib in dev mode
- - `yarn build`: build lib for production
- - `yarn example`: run example server
- - `yarn test`: run tests
- - `yarn clean`: cleaning project
+ - `yarn dev` build lib in dev mode
+ - `yarn build` build lib for production
+ - `yarn example` run example server
+ - `yarn test` run tests
+ - `yarn clean` cleaning project
 
 ### Development
 Running the following command will open your default browser to `example/index.html`.
@@ -41,7 +41,7 @@ Note that example app needs to build `./src/index.re` file, so before running th
 
 ```bash
 yarn dev
-yarn build
+yarn example
 ```
 
 ### Testing
