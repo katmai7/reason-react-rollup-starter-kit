@@ -52,5 +52,4 @@ temp
 typings
 .merlin
 /lib/*
-!/lib/es6
 .bsb.lock
