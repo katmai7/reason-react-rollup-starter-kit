@@ -1,9 +1,6 @@
 # Reason-react starter kit
 
-[![MIT License][license-badge]][license]
-
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 Reason starter kit for creating react library.
 
